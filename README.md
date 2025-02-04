@@ -3,8 +3,8 @@
      <!-- Div content -->
 <div style="margin:0 auto;text-align:center">
 	
-    <p>Welcome to Chili Bowl G@mes, This is a web page dedicated to providing unbl0cked g@mes. Along with providing new website makers embedable g@mes.</p>
-    <p>Everything <i>should</i> work. If something goes wrong please report an error at the <a href="https://github.com/CBGamesdev/chiliblox">Github.</a> Thanks and Enjoy.</p>
+    <p>Welcome to Ch1llyCupG@mes (url has to be math calcules whtever fr this is a website dedecated to you know G@mes and well lets hope this dosent get blocked.</p>
+    <p>Everything <i>should</i> work. If something dosent work mesage me at https://github.com/Ch1llyCupMath thanks and goodbye </p>
 	
 	<!-- Div align in the middle -->
       <div style="margin-left:auto;margin-right:auto;text-align:center">
@@ -20,7 +20,8 @@
     </p>
 
     <h3>
-      Flash G@mes 
+
+      Ruffle emul@tor g@mes
     </h3>
 <a href="alien.html">Alien Hominid</a>
  -
@@ -90,41 +91,13 @@
 -
 <a href="Pacman.html">Pac-Man</a>
 -
-<a href="papaburger.html">Papa's Burgeria</a>
--
-<a href="papafreeze.html">Papa's Freezeria</a>
--
-<a href="papapancake.html">Papa's Pancakeria</a>
--
-<a href="papapizza.html">Papa's Pizzaria</a>
--
-<a href="papapasta.html">Papa's Pastaria</a>
--
-<a href="papasushi.html">Papa's Sushiria</a>
--
-<a href="papataco.html">Papa's Tacomia</a>
--
-<a href="papawing.html">Papa's Wingeria</a>
--
 <a href="pong.html">Pong</a>
 -
 <a href="portal.html">Portal: The Flash Version</a>
 -
-<a href="mario63.html">Super Mario 63</a>
--		      
-<a href="supermarioflash.html">Super Mario Flash</a>
--
-<a href="mariocombat.html">Mario Combat</a>
--
-<a href="meatboy.html">Meat Boy</a>
--
 <a href="miniputt.html">Mini Putt</a>
 -
-<a href="waflashfix/mad2.html">Mutilate a Doll 2</a>
--
 <a href="pedro.html">My Friend Pedro</a>
--
-<a href="gunblood.html">Gunblood</a>
 -
 <a href="riddleschool.html">Riddle School</a>
 -
@@ -153,24 +126,18 @@
 <a href="turtle.html">Toss the Turtle</a>
 -
 <a href="sonic.html">Ultimate Flash Sonic</a>
--
-<a href="yeti.html">Yeti Sports: Pingu Throw </a>
 			    
 	 
     <p>
       ----------------------------------------------------------------
     </p>
 	   <h3>
-       Other G@mes
+       ehh G@mes
     </h3>
 	  
-<a href="miscgame/1v1lol.html">1v1.lol</a>
--
 <a href="2048/index.html">2048</a>
 -
 <a href="bstars/index.html">Basketball Stars</a>
--
-<a href="blackjack/index.html">BlackJack</a>
 -
 <a href="blockblast/index.html">Block Blast</a>
 -
@@ -182,10 +149,6 @@
 -
 <a href="dosbox/?soft=DOOM">DOOM</a>
 -
-<a href="FNAF/2/index.html">FNAF 2</a>
--
-<a href="FNAF/3/index.html">FNAF 3</a>
--
 <a href="geomatrydash/geodash1.html">Geometry Dash</a>
 -
 <a href="geomatrydash/Geometry Dash Subzero.html">Geometry Dash: Subzero</a>
@@ -195,8 +158,6 @@
 <a href="googsnake/index.html">Google Snake</a>
 -
 <a href="hw/index.html">Happy Wheels</a>
--
-<a href="mario/index.html">Mari0</a>
 -
 <a href="minesweep/index.html">Minesweeper</a>
 -
@@ -213,67 +174,10 @@
 <a href="run3/index.html">Run 3</a>
 -
 <a href="slope/index.html">Slope</a>
--
-<a href="miscgame/spacebar.html">Spacebar Smasher</a>
--
-<a href="sm64/index.html">Super Mario 64</a>
--
-<a href="totm/index.html">Tomb of the Mask</a>
--
-<a href="wolfen/index.html">Wolfenstein 3D</a>
     <p>
       ----------------------------------------------------------------
     </p>
-	   <h3>
-      Emul@ted
-    </h3>
-<a href="example/batman.html">Batman (NES)</a>
--
-<a href="miscgame/contracool.html">Contra (NES)</a>
--
-<a href="miscgame/doubled.html">Double Dragon (NES)</a>
--
-<a href="example/ducktales.html">Duck Tales (NES)</a>
--
-<a href="example/f13.html">Friday the 13th (NES)</a>
- -
-<a href="miscgame/megamandos.html">Mega Man 2 (NES)</a>
- -
-<a href="emu/mtyson.html">Mike Tysons Punch Out(NES)</a>
--
-<a href="example/rivercity.html">River City Ransom (NES)
--
-</a><a href="miscgame/mariones.html">Super Mario Bros. (NES)</a>
- -
-<a href="example/sm2.html">Super Mario Bros. 2 (NES)</a>
--
-<a href="example/sm3.html">Super Mario Bros. 3 (NES)</a>
- -
-<a href="GBA-gh-pages/launcher.html#dkc">Donkey Kong Country (GBA)</a>
--
-<a href="GBA-gh-pages/launcher.html#dm">DOOM (GBA)</a>
--	
-<a href="GBA-gh-pages/launcher.html#gta">Grand Theft Auto (GBA)</a>
--
-<a href="GBA-gh-pages/launcher.html#nbaj">NBA Jam 2002 (GBA)</a>
--
-<a href="GBA-gh-pages/launcher.html#pokemonemerald">Pokemon Emerald (GBA)</a>
--
-<a href="GBA-gh-pages/launcher.html#super_street_fighter_2_turbo_revival">Street Fighter II TURBO (GBA)</a>
--
-<a href="GBA-gh-pages/launcher.html#super_street_fighter_3_alpha">Street Fighter Alpha III (GBA)</a>
--
-<a href="GBA-gh-pages/launcher.html#supermarioadvance2">Super Mario World (GBA)</a>
--
-<a href="emu/umk3.html">Ultimate Mortal Kombat 3 (SNES)</a>
--
-<a href="emu/mariokartds.html">Mario Kart (DS)</a>
--
-<a href="emu/goldeneye.html">Goldeneye 007 (N64)</a>
--
-<a href="emu/mkart64.html">Mario Kart 64 (N64)</a>
--
-<a href="emu/wwf.html">WWF No Mercy (N64)</a>
+
 
 
     <p>
@@ -284,12 +188,8 @@
 		   <p class="aligncenter">
     <img src="mediamisc/download.gif" alt="hey bozo we´re under construction!!">
 </p>
-		  <p>Sic Semper Tyrannis! More Backups Coming.</p>
+		  <p>Backups soon </p>
 
-		  <h4>Official Backups:</h4>
- <a href="https://boredmath.github.io/cbf/">1</a> - <a href="https://chiboga.github.io/chilibowlflash/">2</a>
-		  
-		  <p><a href="mediamisc/credits.html">Credits</a></p>
 		  </footer>
 		  
 		  
